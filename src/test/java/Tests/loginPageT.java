@@ -37,10 +37,10 @@ public class loginPageT  extends BaseClass {
 
             WebElement UserNameField = driver.findElement(By.id("L-UserNameField"));
             UserNameField.click();
-            UserNameField.sendKeys("fansonic");
+            UserNameField.sendKeys("KULLANICI ADINIZ");
             WebElement PasswordField = driver.findElement(By.id("L-PasswordField"));
             PasswordField.click();
-            PasswordField.sendKeys("marvel1998");
+            PasswordField.sendKeys("ŞİFRENİZ");
             WebElement loginButton3 = driver.findElement(By.id("gg-login-enter"));
             loginButton3.click();
             driver.manage().timeouts().implicitlyWait(1, TimeUnit.SECONDS);

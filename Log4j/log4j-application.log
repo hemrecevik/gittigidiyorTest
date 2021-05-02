@@ -1,5 +1,1 @@
-2021-05-02 19:21:00 INFO  Log:12 - Test Başladı...
-2021-05-02 19:21:23 INFO  Log:20 - Anasayfa açıldı.https://www.gittigidiyor.com/
-2021-05-02 19:21:24 INFO  Log:20 - Login Sayfası açıldı.
-2021-05-02 19:21:25 ERROR Log:24 - Login olunamadı. Hata=org.junit.ComparisonFailure: expected:<...ww.gittigidiyor.com/[uye-girisi]> but was:<...ww.gittigidiyor.com/[]>
-2021-05-02 19:25:59 INFO  Log:12 - Test Başladı...
+
